@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hey there! 👋
 
-<!--
-**Astral-Modulator/Astral-Modulator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Prajwal**, an Information Systems graduate who's currently looking for my first job.
 
-Here are some ideas to get you started:
+Right now I'm doing a Data Science course, learning how to make sense of data.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building things, trying out new ideas, and turning whatever comes to mind into something real.
+
+**What I mainly build with:** JavaScript, SQL, React, and Node.js | **Favorite tools:** Antigravity, Stitch, and Git
+
+Fun Facts:
+
+- Tea over coffee, anytime.
+- Big fan of anime, especially Code Geass.
+- Wuthering Waves is my go-to game.
+- Enjoy playing chess, gaming, watching anime, and building random things just for fun.
+
